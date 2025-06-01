@@ -1,5 +1,5 @@
-# Medico-Assistance-OpenAI-ChatBot-Using-Python
-This project is a Medico Assistance Chatbot built using OpenAI's GPT-3 and Python with the Textbase library. The chatbot aims to provide medical information and support to users while emphasizing that it is not a substitute for professional medical advice.
+# AI-Health Care
+This project is a  Chatbot built using OpenAI's GPT-3 and Python with the Textbase library. The chatbot aims to provide medical information and support to users while emphasizing that it is not a substitute for professional medical advice.
 
 ![image](https://github.com/neeraj542/Medico-Assistance-OpenAI-ChatBot-Using-Python/assets/114648043/cbb2319c-891d-48bf-8392-96845304e65a)
 
@@ -23,7 +23,7 @@ This project is a Medico Assistance Chatbot built using OpenAI's GPT-3 and Pytho
    ```python main.py```
 
 # Disclaimer
-The Medico Assistance Chatbot is designed to provide general medical information and support. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare providers with any questions you may have regarding a medical condition.
+The  Chatbot is designed to provide general medical information and support. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare providers with any questions you may have regarding a medical condition.
 
 # Contributions
 Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
